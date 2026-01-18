@@ -40,10 +40,7 @@ Repository: https://github.com/urnormalcoderbb/Ordera
 ## Let's Connect
 
 - GitHub: https://github.com/urnormalcoderbb
-- LinkedIn: your-linkedin-url
-- Twitter: your-twitter-url
-- Portfolio: your-portfolio-url
-- Email: your-email@example.com
+- Email: nallamothusubhashchandra@gmail.com
 
 ---
 

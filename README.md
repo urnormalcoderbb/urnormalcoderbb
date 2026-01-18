@@ -1,80 +1,50 @@
-# 👋 Hey there, I’m **urnormalcoderbb**!
+# Hi, I'm urnormalcoderbb
 
-Welcome to my GitHub!  
-I’m a **13-year-old tech enthusiast** who loves building cool things with code, electronics, and creativity. From DIY animatronics to MicroPython joystick controls, I'm constantly exploring and learning new tech skills.
+Welcome to my GitHub profile! I'm a full-stack developer passionate about building scalable applications and solving real-world problems through code.
 
----
+## About Me
 
-## 💫 About Me
+- Full-stack developer with experience across multiple platforms and languages
+- Currently developing Ordera - a comprehensive restaurant ordering system
+- Always learning and exploring new technologies
+- Open to collaboration and interesting projects
+- Feel free to reach out if you have any questions! 
 
-- 👶 Age: 13 (yes, really!)
-- 🤖 Passionate about **robotics, coding, and embedded systems**
-- 📡 Building a **DIY Animatronic Endoskeleton** with wireless ESP32 control
-- 🔧 Learning: MicroPython, Python, C/C++, electronics, and more
-- 🤝 Open to collaboration, feedback, and fun projects
-- 😂 Fun fact: I’ve been told I’m *accidentally funny*... a lot
+## Tech Stack
 
----
+- Languages:  Python, C, C++, JavaScript
+- Mobile Development: Flutter (Dart)
+- DevOps & Infrastructure: Docker
+- Architecture: Multi-tenancy systems, Real-time processing, Scalable backend design
+- Focus Areas: Restaurant management, Software architecture, Software engineering
 
-## 💻 Tech Stack
+## Featured Projects
 
-### 🔹 Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### Ordera
+A complete restaurant ordering system with multi-tenancy, category-based menu management, and real-time order processing.
 
-### 🔹 Tools & Frameworks
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+Tech Stack: Flutter, Python, Docker  
+Topics: Restaurant Management, Mobile App, Multi-platform, Software Architecture
 
----
-
-## 📦 Featured Project
-
-### [👁 DIY Animatronic Endoskeleton](https://github.com/urnormalcoderbb/DIY-Animatronic-Endoskeleton)
-Build your own animatronic endoskeleton that can wave, move its eyes, and control its jaw—all wirelessly!  
-Made with ESP32, MicroPython, servo motors, and creativity.  
-➡️ *Low-cost, expandable, beginner-friendly.*
+Repository: https://github.com/urnormalcoderbb/Ordera
 
 ---
 
-## 📊 GitHub Stats
+## What I'm Working On
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=urnormalcoderbb&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=urnormalcoderbb&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-</table>
+- Building scalable and maintainable applications
+- Implementing modern software architecture patterns
+- Creating cross-platform mobile applications with Flutter
+- Developing backend systems with Python and Docker
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urnormalcoderbb&theme=dark&hide_border=false&layout=compact" />
+## Let's Connect
 
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=urnormalcoderbb&theme=radical&no-frame=false&no-bg=false&margin-w=6)
+- GitHub: https://github.com/urnormalcoderbb
+- LinkedIn: your-linkedin-url
+- Twitter: your-twitter-url
+- Portfolio: your-portfolio-url
+- Email: your-email@example.com
 
 ---
 
-## 💬 Dev Quote of the Day
-
-> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=urnormalcoderbb&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 👁‍🗨 Profile Visitors
-[![](https://visitcount.itsvg.in/api?id=urnormalcoderbb&icon=0&color=0)](https://visitcount.itsvg.in)
-
+Explore my repositories and feel free to contribute or collaborate! 
